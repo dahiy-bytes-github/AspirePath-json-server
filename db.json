@@ -1,0 +1,94 @@
+{
+    "users": [
+      {
+        "id": "8f74",
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "email": "jane.smith@example.com",
+        "password": "securepass456",
+        "role": "mentee",
+        "careerGoals": "CTO"
+      },
+      {
+        "id": "5g21",
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "email": "emily.johnson@example.com",
+        "password": "mypassword789",
+        "role": "mentee",
+        "careerGoals": "Data Scientist"
+      },
+      {
+        "id": "3h90",
+        "firstName": "Michael",
+        "lastName": "Brown",
+        "email": "michael.brown@example.com",
+        "password": "passmichael123",
+        "role": "mentor",
+        "careerGoals": "AI Researcher"
+      },
+      {
+        "id": "7j53",
+        "firstName": "Sarah",
+        "lastName": "Williams",
+        "email": "sarah.williams@example.com",
+        "password": "williams456",
+        "role": "mentee",
+        "careerGoals": "Project Manager"
+      },
+      {
+        "id": "6k89",
+        "firstName": "David",
+        "lastName": "Taylor",
+        "email": "david.taylor@example.com",
+        "password": "taylorpass321",
+        "role": "mentor",
+        "careerGoals": "Cloud Architect"
+      },
+      {
+        "id": "4m76",
+        "firstName": "Olivia",
+        "lastName": "Martinez",
+        "email": "olivia.martinez@example.com",
+        "password": "martinezpass111",
+        "role": "mentee",
+        "careerGoals": "UI/UX Designer"
+      },
+      {
+        "id": "2n65",
+        "firstName": "Daniel",
+        "lastName": "Garcia",
+        "email": "daniel.garcia@example.com",
+        "password": "garcia987",
+        "role": "mentor",
+        "careerGoals": "Blockchain Developer"
+      },
+      {
+        "id": "1p34",
+        "firstName": "Sophia",
+        "lastName": "Anderson",
+        "email": "sophia.anderson@example.com",
+        "password": "sophia555",
+        "role": "mentee",
+        "careerGoals": "Cybersecurity Analyst"
+      },
+      {
+        "id": "1ce3",
+        "firstName": "dfertr",
+        "lastName": "erhty",
+        "email": "aa@gmail.com",
+        "password": "12345678",
+        "role": "mentee",
+        "careerGoals": "Data Scientist"
+      },
+      {
+        "id": "50f1",
+        "firstName": "Curry ",
+        "lastName": "Lam",
+        "email": "c@l.com",
+        "password": "12345678",
+        "role": "mentee",
+        "careerGoals": "IT Manager"
+      }
+    ]
+  }
